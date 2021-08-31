@@ -5,8 +5,6 @@ import styles from '../styles/layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 
 export default function Layout({ children, title, description, home }) {
-	console.log(home);
-
 	const name = 'Harold';
 
 	return (
